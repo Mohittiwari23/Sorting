@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
-#define max 10000
+#define max 1000
 
 void Randomint(int *arr,int count){ 
     for (int i=0;i<count;i++)
