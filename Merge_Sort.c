@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-#define max 20
+#define max 10
 
 void Randomint(int *arr,int count){ 
     for (int i=0;i<count;i++)
